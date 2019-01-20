@@ -7,4 +7,4 @@ Then a linear model is made with the help of machine learning to fit these data 
 
 The data obtained have been projected on a map with coordinates of the countries and heat map using google api.
 
-This project was made for NUS hack and roll .
+This project was made for NUS hack and roll 2019.
